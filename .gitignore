@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
 
 # Cricsheet raw bundle (95MB extracted, not yet used by any script —
 # downloaded for future use, not worth bloating the repo with yet)
